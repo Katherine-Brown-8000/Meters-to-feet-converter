@@ -7,4 +7,4 @@ if metric == 'M':
     print(f"distance in feet is {mf:.2f}")
 elif metric == 'F':
     fm = distant*0.3048
-    print(f"distance in meters is {fm:.2f}")
+    print(f"The distance in meters is {fm:.2f}")
